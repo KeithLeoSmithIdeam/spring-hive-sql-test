@@ -1,0 +1,11 @@
+server:
+  port: 8082
+  
+dentsu:
+  hive:
+    connectionURL: jdbc:hive2://hadoop-hv-hiveserver2-server-0.hadoop-hv-hiveserver2-server.hadoop.svc.cluster.local:10001/default;transportMode=http;httpPath=/cliservice/default/hive-interactive
+    username: keith.leosmith
+    password: Password1
+    
+    
+    

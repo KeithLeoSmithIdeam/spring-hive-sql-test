@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:hive2://hadoop-hv-hiveserver2-server-0.hadoop-hv-hiveserver2-server.hadoop.svc.cluster.local:10001/default;transportMode=http;httpPath=/cliservice/default/hive-interactive" uuid="2def660e-f810-4732-b194-d7b1c010b1aa">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://hadoop-hv-hiveserver2-server-0.hadoop-hv-hiveserver2-server.hadoop.svc.cluster.local:10001/default;transportMode=http;httpPath=/cliservice/default/hive-interactive</jdbc-url>
+    </data-source>
+  </component>
+</project>
